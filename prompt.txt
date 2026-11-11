@@ -8,6 +8,20 @@ Aturan dan Batasan Kepatuhan (Constraints):
 2. Pastikan setiap saran kode atau file yang dibuat selaras dengan pembagian tugas masing-masing anggota di dalam task.md.
 3. Terapkan standar penulisan Conventional Commits serta pastikan ada komentar penjelas yang memadai pada setiap blok kode yang dihasilkan.
 
+<<<<<<< HEAD
+Issue 1
+Tolong baca dan pahami berkas prd.md, architecture.md, dan task.md yang ada di direktori utama proyek ini sebagai panduan konteks utama.
+
+Setelah memahami arsitektur dan alur kerja proyek, tolong kerjakan Issue #1: Implementasi endpoint API untuk registrasi pengguna.
+
+Kriteria Pengerjaan:
+1. Buat alur rute dan logika endpoint registrasi pengguna yang konsisten dengan arsitektur di architecture.md dan kebutuhan di prd.md.
+2. Tambahkan penanganan validasi input yang aman (email & kata sandi).
+3. Tulis kode yang rapi, modular, dan sertakan penanganan error (error handling) yang jelas.
+4. Setelah pengerjaan selesai, perbarui status tugas terkait di task.md (beri tanda centang [x]).
+5. Tampilkan ringkasan file apa saja yang dibuat/diubah beserta petunjuk singkat untuk menguji fungsionalitas registrasi ini secara lokal.
+=======
 ----
 1. Tolong baca terlebih dahulu file prd.md, architecture.md, dan task.md di direktori proyek ini untuk memahami konteks tugas saya.
 2. 
+>>>>>>> 95cb38e126b41f407d6061a68b8ecbbe01b8354c

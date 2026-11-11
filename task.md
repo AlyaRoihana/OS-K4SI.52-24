@@ -1,6 +1,6 @@
 # Pembagian Tugas Kelompok (Task Tracker)
 
-- [ ] **Issue #1:** `[Feature] Implementasi endpoint API untuk registrasi pengguna`
+- [x] **Issue #1:** `[Feature] Implementasi endpoint API untuk registrasi pengguna`
   - **Penanggung Jawab:** Khairunnisa (NIM: 2441919008)
   - **Branch Terkait:** `feature/tugas-khairunnisa`
 
