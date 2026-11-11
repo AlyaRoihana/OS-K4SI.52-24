@@ -1,0 +1,25 @@
+{
+  "name": "os-k4si.52-24",
+  "version": "1.0.0",
+  "description": "Proyek Praktikum Open Source - Kelompok 4 SI52",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "open-source",
+    "express",
+    "api",
+    "authentication"
+  ],
+  "author": "Khairunnisa, Alya Roihanatul Jannah, Annisa Hasanah",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
+
