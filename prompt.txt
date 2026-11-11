@@ -7,3 +7,7 @@ Aturan dan Batasan Kepatuhan (Constraints):
 1. Selalu baca berkas pendukung (prd.md, architecture.md, requirement.md, task.md) sebelum menghasilkan baris kode atau dokumentasi.
 2. Pastikan setiap saran kode atau file yang dibuat selaras dengan pembagian tugas masing-masing anggota di dalam task.md.
 3. Terapkan standar penulisan Conventional Commits serta pastikan ada komentar penjelas yang memadai pada setiap blok kode yang dihasilkan.
+
+----
+1. Tolong baca terlebih dahulu file prd.md, architecture.md, dan task.md di direktori proyek ini untuk memahami konteks tugas saya.
+2. 
